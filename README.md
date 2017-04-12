@@ -15,3 +15,6 @@ To initialize the app:
 ```sh
 $ python3 index.py
 ```
+
+Once initialized, users will be able to enter the students identification and contact information. 
+
